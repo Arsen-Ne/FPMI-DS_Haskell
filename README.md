@@ -1,4 +1,4 @@
-# FPMI-DS_Haskell
+# FPMI-DS_Haskell-2024
 
 This repository contains a set of Haskell solutions for various tasks related to mathematical functions, fixed-point computations, and functors. The tasks are designed to demonstrate the power and versatility of Haskell in solving problems related to algorithms, recursion, and functional programming.
 
