@@ -6,7 +6,7 @@ This repository contains a set of Haskell solutions for various tasks related to
 
 The repository is organized into three main files:
 
-1. **04Tasks.hs** - A collection of various mathematical tasks:
+1. **[04Tasks.hs](https://github.com/Arsen-Ne/FPMI-DS_Haskell/blob/main/04Tasks.hs)** - A collection of various mathematical tasks:
    - Greatest Common Divisor (GCD)
    - Power computation (Exponentiation)
    - Fibonacci numbers
@@ -18,14 +18,14 @@ The repository is organized into three main files:
    - Systems of numeral representations
    - Grid path enumeration using Delannoy numbers
 
-2. **07_Fixed_Point_Tasks.hs** - A demonstration of fixed-point computations:
+2. **[07_Fixed_Point_Tasks.hs](https://github.com/Arsen-Ne/FPMI-DS_Haskell/blob/main/07_Fixed_Point_Tasks.hs)** - A demonstration of fixed-point computations:
    - GCD using `fix` (fixed-point combinator)
    - Fibonacci numbers (both list and index-based)
    - Summing list elements using recursion
    - Finding the minimum element in a list
    - Reversing a list
 
-3. **09_Functor_Tasks.hs** - Functor implementations for various data structures:
+3. **[09_Functor_Tasks.hs](https://github.com/Arsen-Ne/FPMI-DS_Haskell/blob/main/09_Functor_Tasks.hs)** - Functor implementations for various data structures:
    - `Pair`, `Labelled`, `OneOrTwo`, `MyEither`, `MultiTree`, and `Stream`
    - Each data structure demonstrates how to implement the `Functor` instance and how to apply `fmap` for transformations.
    - Includes a set of example transformations to showcase the `Functor` interface in action.
@@ -78,7 +78,7 @@ Stream: An infinite stream of values.
 The file demonstrates how fmap can be used to apply a function to the values contained in each structure.
 
 ## Example Output
-### 04Tasks.hs
+### [04Tasks.hs](https://github.com/Arsen-Ne/FPMI-DS_Haskell/blob/main/04Tasks.hs)
 ```bash
 GCD examples (48 18) and (54 24):
 6
@@ -135,7 +135,7 @@ Delannoy paths 2 2:
 [[0,0,2,2],[0,1,2],[0,2,0,2],[0,2,1],[0,2,2,0],[1,0,2],[1,1],[1,2,0],[2,0,0,2],[2,0,1],[2,0,2,0],[2,1,0],[2,2,0,0]]
 ```
 
-### 07_Fixed_Point_Tasks.hs
+### [07_Fixed_Point_Tasks.hs](https://github.com/Arsen-Ne/FPMI-DS_Haskell/blob/main/07_Fixed_Point_Tasks.hs)
 ```bash
 Наибольший общий делитель 56 b 98:
 14
@@ -157,7 +157,7 @@ Delannoy paths 2 2:
 
 ```
 
-### 09_Functor_Tasks.hs
+### [09_Functor_Tasks.hs](https://github.com/Arsen-Ne/FPMI-DS_Haskell/blob/main/09_Functor_Tasks.hs)
 ```bash
 Pair 4 6
 
